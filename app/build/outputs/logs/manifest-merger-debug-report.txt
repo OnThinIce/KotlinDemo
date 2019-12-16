@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/34c46b0e787ce8ab2d5ef7e78484622d/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d38b88c40b7faa7cf8fa8796a6b5ac6b/jetified-core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4edd34c0af1e19b25e6d150bb36f45db/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/f609ef1eb525e09edcc5f932e150abaf/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2443ea9527d07c0f64af5bc3d991f8b3/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/c8a4b6014ee890140c8f76000c55f1b1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/66112db22d0b41c976e7b839174a5d55/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/ac92bae93f86df95435ef925d406491f/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/9b986c0c33020f3cde360f3cbbdc1466/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4a5b281eee3f47fce9016f13d623d4bc/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d588a5f6c620e87bce63a6011704faf3/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/60ec6b477b35f73c25aa13a0154e0bed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/70424632db792062892d37ec5e5f8194/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/e8f63c87d6090cd44adc35241e64525b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/1323acd79592d0d46b50c591ae157ba1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/281e5c304a1ce2a1f1012820ddf02f47/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2706a206ac4618dff321d1d26a41770a/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4847ff7c513c177012be922cdbbd31ac/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/ad4552f1f3ffbe506bbf27cbe5ff61df/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/17c8eca235de0df9ad5c111ce69f9834/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d2e942510fba52be75153752a938de72/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/1b710899a35ab5b06f0d4cb62e813ce5/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/47a62dbf36244ce7248dd09bd236326f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4e00c34eb07fc981a968dbe96b11d47b/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/5ba4c8ff5118f5cf202fe011184199f9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/e565a239634f7253729b4d311ca58147/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/6088e13c7f1d4c6bb0eec6a6f2e7fe74/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/80982f90a99e2944d674b9cdecfc9656/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4edd34c0af1e19b25e6d150bb36f45db/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4edd34c0af1e19b25e6d150bb36f45db/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2706a206ac4618dff321d1d26a41770a/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2706a206ac4618dff321d1d26a41770a/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4847ff7c513c177012be922cdbbd31ac/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4847ff7c513c177012be922cdbbd31ac/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2706a206ac4618dff321d1d26a41770a/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.zl.my.kt.MainActivity
+ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/34c46b0e787ce8ab2d5ef7e78484622d/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/34c46b0e787ce8ab2d5ef7e78484622d/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d38b88c40b7faa7cf8fa8796a6b5ac6b/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d38b88c40b7faa7cf8fa8796a6b5ac6b/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4edd34c0af1e19b25e6d150bb36f45db/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4edd34c0af1e19b25e6d150bb36f45db/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/f609ef1eb525e09edcc5f932e150abaf/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/f609ef1eb525e09edcc5f932e150abaf/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2443ea9527d07c0f64af5bc3d991f8b3/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2443ea9527d07c0f64af5bc3d991f8b3/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/c8a4b6014ee890140c8f76000c55f1b1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/c8a4b6014ee890140c8f76000c55f1b1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/66112db22d0b41c976e7b839174a5d55/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/66112db22d0b41c976e7b839174a5d55/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/ac92bae93f86df95435ef925d406491f/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/ac92bae93f86df95435ef925d406491f/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/9b986c0c33020f3cde360f3cbbdc1466/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/9b986c0c33020f3cde360f3cbbdc1466/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4a5b281eee3f47fce9016f13d623d4bc/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4a5b281eee3f47fce9016f13d623d4bc/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d588a5f6c620e87bce63a6011704faf3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d588a5f6c620e87bce63a6011704faf3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/60ec6b477b35f73c25aa13a0154e0bed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/60ec6b477b35f73c25aa13a0154e0bed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/70424632db792062892d37ec5e5f8194/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/70424632db792062892d37ec5e5f8194/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/e8f63c87d6090cd44adc35241e64525b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/e8f63c87d6090cd44adc35241e64525b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/1323acd79592d0d46b50c591ae157ba1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/1323acd79592d0d46b50c591ae157ba1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/281e5c304a1ce2a1f1012820ddf02f47/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/281e5c304a1ce2a1f1012820ddf02f47/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2706a206ac4618dff321d1d26a41770a/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/2706a206ac4618dff321d1d26a41770a/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4847ff7c513c177012be922cdbbd31ac/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4847ff7c513c177012be922cdbbd31ac/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/ad4552f1f3ffbe506bbf27cbe5ff61df/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/ad4552f1f3ffbe506bbf27cbe5ff61df/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/17c8eca235de0df9ad5c111ce69f9834/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/17c8eca235de0df9ad5c111ce69f9834/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d2e942510fba52be75153752a938de72/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/d2e942510fba52be75153752a938de72/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/1b710899a35ab5b06f0d4cb62e813ce5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/1b710899a35ab5b06f0d4cb62e813ce5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/47a62dbf36244ce7248dd09bd236326f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/47a62dbf36244ce7248dd09bd236326f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4e00c34eb07fc981a968dbe96b11d47b/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/4e00c34eb07fc981a968dbe96b11d47b/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/5ba4c8ff5118f5cf202fe011184199f9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/5ba4c8ff5118f5cf202fe011184199f9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/e565a239634f7253729b4d311ca58147/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/e565a239634f7253729b4d311ca58147/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/6088e13c7f1d4c6bb0eec6a6f2e7fe74/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/6088e13c7f1d4c6bb0eec6a6f2e7fe74/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/80982f90a99e2944d674b9cdecfc9656/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zl_pc/.gradle/caches/transforms-2/files-2.1/80982f90a99e2944d674b9cdecfc9656/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zl_pc/Downloads/DemoPlace/KotlinCode/MyKT/app/src/main/AndroidManifest.xml
